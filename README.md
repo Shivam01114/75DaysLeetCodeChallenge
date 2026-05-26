@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0875-koko-eating-bananas) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
