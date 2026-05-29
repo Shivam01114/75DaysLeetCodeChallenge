@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0457-circular-array-loop](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0457-circular-array-loop](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0344-reverse-string) |
+| [0457-circular-array-loop](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0905-sort-array-by-parity) |
