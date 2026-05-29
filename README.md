@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
