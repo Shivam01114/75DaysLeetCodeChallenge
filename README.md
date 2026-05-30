@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0457-circular-array-loop) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -349,4 +352,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
