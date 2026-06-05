@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0595-big-countries) |
+| [1070-product-sales-analysis-iii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1070-product-sales-analysis-iii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
