@@ -368,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
