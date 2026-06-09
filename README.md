@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 ## Matrix
 |  |
 | ------- |
@@ -386,4 +390,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
