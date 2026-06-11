@@ -12,7 +12,8 @@ public:
                 min_val = num;
             }
         }
-        long ans = (long) max_val-min_val;
-        return ans * k;
+        // long ans = (long) max_val-min_val;
+        // return ans * k;
+        return (long long)k* (max_val-min_val);
     }
 };
