@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0011-container-with-most-water) |
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
