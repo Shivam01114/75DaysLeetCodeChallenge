@@ -12,7 +12,7 @@ public:
                 min_val = num;
             }
         }
-        long best_sub_array_value = (long) max_val-min_val;
-        return best_sub_array_value * k;
+        long ans = (long) max_val-min_val;
+        return ans * k;
     }
 };
