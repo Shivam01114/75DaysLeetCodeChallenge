@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0567-permutation-in-string) |
+| [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
 ## String Matching
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
+| [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -420,4 +422,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
