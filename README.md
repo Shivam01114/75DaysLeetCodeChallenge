@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0053-maximum-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0141-linked-list-cycle) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0074-search-a-2d-matrix) |
 ## Monotonic Stack
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0078-subsets) |
