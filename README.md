@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,5 +428,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
