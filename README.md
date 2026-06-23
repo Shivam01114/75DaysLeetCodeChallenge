@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Hash Function
 |  |
 | ------- |
