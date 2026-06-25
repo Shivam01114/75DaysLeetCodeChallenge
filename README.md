@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1137-n-th-tribonacci-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
