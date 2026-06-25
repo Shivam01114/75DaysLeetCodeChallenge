@@ -6,10 +6,9 @@ public:
         
         for (int i = 0; i < n; i++) {
             if (i > maxReach) return false;
-            if (maxReach >= n - 1) return true;
             maxReach = max(maxReach, i + nums[i]);
         }
         
-        return false;
+        return true;
     }
 };
