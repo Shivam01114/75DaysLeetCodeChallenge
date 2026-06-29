@@ -9,14 +9,10 @@ public:
     }
 
     int find(vector<int>& coins, int target, int i) {
-        if (target == 0)
-            return 0;
-        if (target < 0)
-            return 1e9;
-        if (i == coins.size())
-            return 1e9;
-        if (dp[i][target] != -1)
-            return dp[i][target];
+        if (target == 0) return 0;
+        if (target < 0) return 1e9;
+        if (i == coins.size()) return 1e9;
+        if (dp[i][target] != -1) return dp[i][target];
         int pick = 1 + find(coins, target - coins[i], i);
         int notPick = find(coins, target, i + 1);
         return dp[i][target] = min(pick, notPick);
