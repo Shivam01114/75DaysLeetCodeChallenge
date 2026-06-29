@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
