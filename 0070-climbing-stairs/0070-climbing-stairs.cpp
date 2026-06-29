@@ -1,4 +1,5 @@
 class Solution {
+// Using Dp
     // vector<int> dp;
 // public:
 //     int climbStairs(int n) {
@@ -33,12 +34,13 @@ public:
         if (n <= 2) return n;
         
         int first = 1;  
-        int second = 2; 
+        int second = 1;
+        int third = 0; 
         
-        for (int i = 3; i <= n; i++) {
-            int current = first + second;
+        for (int i = 2; i <= n; i++) {
+            third = first + second;
             first = second;
-            second = current;
+            second = third;
         }
         
         return second;
