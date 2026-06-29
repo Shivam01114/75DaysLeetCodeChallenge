@@ -8,7 +8,7 @@ public:
         m = g[0].size();
         if (g[n-1][m-1] == 1) return 0;
 
-        dp.assign(n, vector<int>(m, -1));
+        dp.resize(n, vector<int>(m, -1));
         return find(g, 0, 0);
     }
     int find(vector<vector<int>>& grid, int i, int j) {
