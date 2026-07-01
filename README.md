@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
