@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0918-maximum-sum-circular-subarray) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0307-range-sum-query-mutable) |
 | [1472-design-browser-history](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
@@ -462,10 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Merge Sort
 |  |
