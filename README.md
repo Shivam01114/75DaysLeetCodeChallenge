@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3689-maximum-total-subarray-value-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0412-fizz-buzz) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -511,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
