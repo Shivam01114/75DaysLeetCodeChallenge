@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Math
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
