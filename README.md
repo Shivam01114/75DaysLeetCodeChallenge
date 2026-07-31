@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Trie
 |  |
