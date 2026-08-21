@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Stack
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
