@@ -7,6 +7,6 @@ class Solution:
                 if j<i:
                     count+=1
             ans.append(count)
-        return ans
+        return ans 
 
-            
+        
