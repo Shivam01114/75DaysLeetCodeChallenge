@@ -6,13 +6,5 @@ class Solution:
             n//=2
         return n == 1
 
-        # using Recursion
-        
-        # if(n<=0):
-        #     return False
-        # if n==1:
-        #     return True
-        # if n%2!=0:
-        #     return False
 
-        # return self.isPowerOfTwo(n//2)
+
