@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
 | [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Dynamic Programming
 |  |
