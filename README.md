@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0509-fibonacci-number) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0784-letter-case-permutation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
