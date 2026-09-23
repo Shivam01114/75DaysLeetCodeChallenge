@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1929-concatenation-of-array) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Stack
 |  |
