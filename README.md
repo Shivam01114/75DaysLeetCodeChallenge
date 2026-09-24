@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0485-max-consecutive-ones) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0977-squares-of-a-sorted-array) |
