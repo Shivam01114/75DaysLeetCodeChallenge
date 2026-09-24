@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1929-concatenation-of-array) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/2812-find-the-safest-path-in-a-grid) |
