@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0238-product-of-array-except-self) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0283-move-zeroes) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0258-add-digits) |
